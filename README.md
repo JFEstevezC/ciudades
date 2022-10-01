@@ -1,0 +1,3 @@
+# Crecimiento poblacional de ciudades
+## En 1980 la ciudad A tenía 3.5 millones de habitantes y una rata de crecimiento del 7% anual; si la ciudad B tanía 5 millones y una tasa de 5% anual. Si el crecimiento poblacional se mantiene constante en las 2 ciudades, hacer el diagrama de flujo y el programa en python que calcule e imprima en que año la población de la ciudad A es mayor que la de la ciudad B
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
